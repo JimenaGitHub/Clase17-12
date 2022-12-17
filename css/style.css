@@ -1,0 +1,17 @@
+#seccion1{
+    border: 2px dotted #3F83A4;
+}
+
+.secciones{
+    background-color: blueviolet;
+}
+
+main div{
+    margin: 10px;
+    padding: 10px;
+    border: 2px dotted #a43f57;
+}
+
+.navbar{
+    background-color: pink !important;
+}
